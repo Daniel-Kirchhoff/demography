@@ -1,0 +1,902 @@
+[
+    {
+        "index": 84,
+        "country": "India",
+        "lat": 20.593684,
+        "long": 78.96288,
+        "twenty": 1380,
+        "fifty": 1639,
+        "hundred": 1447
+    },
+    {
+        "index": 90,
+        "country": "China",
+        "lat": 3.586166,
+        "long": 104.195397,
+        "twenty": 1439,
+        "fifty": 1402,
+        "hundred": 1065
+    },
+    {
+        "index": 46,
+        "country": "Nigeria",
+        "lat": 9.081999,
+        "long": 8.675277,
+        "twenty": 206,
+        "fifty": 401,
+        "hundred": 733
+    },
+    {
+        "index": 234,
+        "country": "United States of America",
+        "lat": 3.709024,
+        "long": -95.712891,
+        "twenty": 331,
+        "fifty": 379,
+        "hundred": 434
+    },
+    {
+        "index": 88,
+        "country": "Pakistan",
+        "lat": 30.375321,
+        "long": 69.345116,
+        "twenty": 221,
+        "fifty": 338,
+        "hundred": 403
+    },
+    {
+        "index": 25,
+        "country": "Democratic Republic of the Congo",
+        "lat": -4.038333,
+        "long": 21.758664,
+        "twenty": 90,
+        "fifty": 194,
+        "hundred": 362
+    },
+    {
+        "index": 100,
+        "country": "Indonesia",
+        "lat": -0.789275,
+        "long": 113.921327,
+        "twenty": 274,
+        "fifty": 331,
+        "hundred": 321
+    },
+    {
+        "index": 4,
+        "country": "Ethiopia",
+        "lat": 9.145,
+        "long": 40.489673,
+        "twenty": 115,
+        "fifty": 205,
+        "hundred": 294
+    },
+    {
+        "index": 17,
+        "country": "United Republic of Tanzania",
+        "lat": -6.369028,
+        "long": 34.888822,
+        "twenty": 60,
+        "fifty": 129,
+        "hundred": 286
+    },
+    {
+        "index": 52,
+        "country": "Egypt",
+        "lat": 26.820553,
+        "long": 30.802498,
+        "twenty": 102,
+        "fifty": 160,
+        "hundred": 225
+    },
+    {
+        "index": 20,
+        "country": "Angola",
+        "lat": -11.202692,
+        "long": 17.873887,
+        "twenty": 33,
+        "fifty": 77,
+        "hundred": 188
+    },
+    {
+        "index": 147,
+        "country": "Brazil",
+        "lat": -14.235004,
+        "long": -5.192528,
+        "twenty": 213,
+        "fifty": 229,
+        "hundred": 181
+    },
+    {
+        "index": 45,
+        "country": "Niger",
+        "lat": 17.607789,
+        "long": 8.081666,
+        "twenty": 24,
+        "fifty": 66,
+        "hundred": 165
+    },
+    {
+        "index": 82,
+        "country": "Bangladesh",
+        "lat": 23.684994,
+        "long": 90.356331,
+        "twenty": 165,
+        "fifty": 193,
+        "hundred": 151
+    },
+    {
+        "index": 104,
+        "country": "Philippines",
+        "lat": 12.879721,
+        "long": 121.774017,
+        "twenty": 110,
+        "fifty": 144,
+        "hundred": 146
+    },
+    {
+        "index": 55,
+        "country": "Sudan",
+        "lat": 12.862807,
+        "long": 30.217636,
+        "twenty": 44,
+        "fifty": 81,
+        "hundred": 142
+    },
+    {
+        "index": 142,
+        "country": "Mexico",
+        "lat": 23.634501,
+        "long": -102.552784,
+        "twenty": 129,
+        "fifty": 155,
+        "hundred": 142
+    },
+    {
+        "index": 16,
+        "country": "Uganda",
+        "lat": 1.373333,
+        "long": 32.290275,
+        "twenty": 46,
+        "fifty": 89,
+        "hundred": 137
+    },
+    {
+        "index": 189,
+        "country": "Russian Federation",
+        "lat": 6.152401,
+        "long": 105.318756,
+        "twenty": 146,
+        "fifty": 136,
+        "hundred": 126
+    },
+    {
+        "index": 5,
+        "country": "Kenya",
+        "lat": -0.023559,
+        "long": 37.906193,
+        "twenty": 54,
+        "fifty": 92,
+        "hundred": 125
+    },
+    {
+        "index": 10,
+        "country": "Mozambique",
+        "lat": -18.665695,
+        "long": 35.529562,
+        "twenty": 31,
+        "fifty": 65,
+        "hundred": 124
+    },
+    {
+        "index": 63,
+        "country": "Iraq",
+        "lat": 33.223191,
+        "long": 43.679291,
+        "twenty": 40,
+        "fifty": 71,
+        "hundred": 108
+    },
+    {
+        "index": 6,
+        "country": "Madagascar",
+        "lat": -18.766947,
+        "long": 46.869107,
+        "twenty": 28,
+        "fifty": 54,
+        "hundred": 100
+    },
+    {
+        "index": 85,
+        "country": "Iran (Islamic Republic of)",
+        "lat": 32.427908,
+        "long": 53.688046,
+        "twenty": 84,
+        "fifty": 103,
+        "hundred": 99
+    },
+    {
+        "index": 37,
+        "country": "C?te d'Ivoire",
+        "lat": 7.539989,
+        "long": -554.708,
+        "twenty": 26,
+        "fifty": 51,
+        "hundred": 97
+    },
+    {
+        "index": 108,
+        "country": "Viet Nam",
+        "lat": 14.058324,
+        "long": 108.277199,
+        "twenty": 97,
+        "fifty": 110,
+        "hundred": 97
+    },
+    {
+        "index": 21,
+        "country": "Cameroon",
+        "lat": 7.369722,
+        "long": 12.354722,
+        "twenty": 27,
+        "fifty": 51,
+        "hundred": 90
+    },
+    {
+        "index": 73,
+        "country": "Turkey",
+        "lat": 38.963745,
+        "long": 35.243322,
+        "twenty": 84,
+        "fifty": 97,
+        "hundred": 86
+    },
+    {
+        "index": 35,
+        "country": "Burkina Faso",
+        "lat": 12.238333,
+        "long": -1.561593,
+        "twenty": 21,
+        "fifty": 43,
+        "hundred": 83
+    },
+    {
+        "index": 18,
+        "country": "Zambia",
+        "lat": -13.133897,
+        "long": 27.849332,
+        "twenty": 18,
+        "fifty": 39,
+        "hundred": 82
+    },
+    {
+        "index": 43,
+        "country": "Mali",
+        "lat": 17.570692,
+        "long": -3.996166,
+        "twenty": 20,
+        "fifty": 44,
+        "hundred": 80
+    },
+    {
+        "index": 33,
+        "country": "South Africa",
+        "lat": -30.559482,
+        "long": 22.937506,
+        "twenty": 59,
+        "fifty": 76,
+        "hundred": 79
+    },
+    {
+        "index": 39,
+        "country": "Ghana",
+        "lat": 7.946527,
+        "long": -1.023194,
+        "twenty": 31,
+        "fifty": 52,
+        "hundred": 79
+    },
+    {
+        "index": 204,
+        "country": "United Kingdom",
+        "lat": 55.378051,
+        "long": -3.435973,
+        "twenty": 68,
+        "fifty": 74,
+        "hundred": 78
+    },
+    {
+        "index": 14,
+        "country": "Somalia",
+        "lat": 5.152149,
+        "long": 46.199616,
+        "twenty": 16,
+        "fifty": 35,
+        "hundred": 76
+    },
+    {
+        "index": 81,
+        "country": "Afghanistan",
+        "lat": 3.393911,
+        "long": 67.709953,
+        "twenty": 39,
+        "fifty": 65,
+        "hundred": 75
+    },
+    {
+        "index": 95,
+        "country": "Japan",
+        "lat": 36.204824,
+        "long": 138.252924,
+        "twenty": 126,
+        "fifty": 106,
+        "hundred": 75
+    },
+    {
+        "index": 224,
+        "country": "Germany",
+        "lat": 51.165691,
+        "long": 10.451526,
+        "twenty": 84,
+        "fifty": 80,
+        "hundred": 75
+    },
+    {
+        "index": 51,
+        "country": "Algeria",
+        "lat": 28.033886,
+        "long": 1.659626,
+        "twenty": 44,
+        "fifty": 61,
+        "hundred": 71
+    },
+    {
+        "index": 7,
+        "country": "Malawi",
+        "lat": -13.254308,
+        "long": 34.301525,
+        "twenty": 19,
+        "fifty": 38,
+        "hundred": 67
+    },
+    {
+        "index": 223,
+        "country": "France",
+        "lat": 46.227638,
+        "long": 2.213749,
+        "twenty": 65,
+        "fifty": 68,
+        "hundred": 65
+    },
+    {
+        "index": 48,
+        "country": "Senegal",
+        "lat": 14.497401,
+        "long": -14.452362,
+        "twenty": 17,
+        "fifty": 33,
+        "hundred": 64
+    },
+    {
+        "index": 23,
+        "country": "Chad",
+        "lat": 15.454166,
+        "long": 18.732207,
+        "twenty": 16,
+        "fifty": 34,
+        "hundred": 62
+    },
+    {
+        "index": 145,
+        "country": "Argentina",
+        "lat": -38.416097,
+        "long": -63.616672,
+        "twenty": 45,
+        "fifty": 55,
+        "hundred": 57
+    },
+    {
+        "index": 231,
+        "country": "Canada",
+        "lat": 56.130366,
+        "long": -106.346771,
+        "twenty": 38,
+        "fifty": 46,
+        "hundred": 57
+    },
+    {
+        "index": 103,
+        "country": "Myanmar",
+        "lat": 21.913965,
+        "long": 95.956223,
+        "twenty": 54,
+        "fifty": 62,
+        "hundred": 55
+    },
+    {
+        "index": 75,
+        "country": "Yemen",
+        "lat": 15.552727,
+        "long": 48.516388,
+        "twenty": 30,
+        "fifty": 48,
+        "hundred": 53
+    },
+    {
+        "index": 0,
+        "country": "Burundi",
+        "lat": -3.373056,
+        "long": 29.918886,
+        "twenty": 12,
+        "fifty": 25,
+        "hundred": 51
+    },
+    {
+        "index": 34,
+        "country": "Benin",
+        "lat": 930.769,
+        "long": 2.315834,
+        "twenty": 12,
+        "fifty": 24,
+        "hundred": 47
+    },
+    {
+        "index": 106,
+        "country": "Thailand",
+        "lat": 15.870032,
+        "long": 100.992541,
+        "twenty": 70,
+        "fifty": 66,
+        "hundred": 46
+    },
+    {
+        "index": 40,
+        "country": "Guinea",
+        "lat": 9.945587,
+        "long": -9.696645,
+        "twenty": 13,
+        "fifty": 26,
+        "hundred": 45
+    },
+    {
+        "index": 54,
+        "country": "Morocco",
+        "lat": 31.791702,
+        "long": -709.262,
+        "twenty": 37,
+        "fifty": 46,
+        "hundred": 45
+    },
+    {
+        "index": 149,
+        "country": "Colombia",
+        "lat": 4.570868,
+        "long": -74.297333,
+        "twenty": 51,
+        "fifty": 56,
+        "hundred": 45
+    },
+    {
+        "index": 159,
+        "country": "Australia",
+        "lat": -25.274398,
+        "long": 133.775136,
+        "twenty": 25,
+        "fifty": 33,
+        "hundred": 43
+    },
+    {
+        "index": 70,
+        "country": "Saudi Arabia",
+        "lat": 23.885942,
+        "long": 45.079162,
+        "twenty": 35,
+        "fifty": 45,
+        "hundred": 42
+    },
+    {
+        "index": 80,
+        "country": "Uzbekistan",
+        "lat": 41.377491,
+        "long": 64.585262,
+        "twenty": 33,
+        "fifty": 43,
+        "hundred": 42
+    },
+    {
+        "index": 102,
+        "country": "Malaysia",
+        "lat": 4.210484,
+        "long": 101.975766,
+        "twenty": 32,
+        "fifty": 41,
+        "hundred": 40
+    },
+    {
+        "index": 212,
+        "country": "Italy",
+        "lat": 4.187194,
+        "long": 1.256738,
+        "twenty": 60,
+        "fifty": 54,
+        "hundred": 40
+    },
+    {
+        "index": 155,
+        "country": "Peru",
+        "lat": -9.189967,
+        "long": -75.015152,
+        "twenty": 33,
+        "fifty": 40,
+        "hundred": 39
+    },
+    {
+        "index": 72,
+        "country": "Syrian Arab Republic",
+        "lat": 34.802075,
+        "long": 38.996815,
+        "twenty": 18,
+        "fifty": 33,
+        "hundred": 36
+    },
+    {
+        "index": 158,
+        "country": "Venezuela (Bolivarian Republic of)",
+        "lat": 642.375,
+        "long": -6.658973,
+        "twenty": 28,
+        "fifty": 37,
+        "hundred": 34
+    },
+    {
+        "index": 12,
+        "country": "Rwanda",
+        "lat": -1.940278,
+        "long": 29.873888,
+        "twenty": 13,
+        "fifty": 23,
+        "hundred": 33
+    },
+    {
+        "index": 220,
+        "country": "Spain",
+        "lat": 40.463667,
+        "long": -374.922,
+        "twenty": 47,
+        "fifty": 44,
+        "hundred": 33
+    },
+    {
+        "index": 15,
+        "country": "South Sudan",
+        "lat": 6.876991,
+        "long": 31.306978,
+        "twenty": 11,
+        "fifty": 20,
+        "hundred": 32
+    },
+    {
+        "index": 19,
+        "country": "Zimbabwe",
+        "lat": -19.015438,
+        "long": 29.154857,
+        "twenty": 15,
+        "fifty": 24,
+        "hundred": 31
+    },
+    {
+        "index": 140,
+        "country": "Guatemala",
+        "lat": 15.783471,
+        "long": -90.230759,
+        "twenty": 18,
+        "fifty": 27,
+        "hundred": 31
+    },
+    {
+        "index": 97,
+        "country": "Republic of Korea",
+        "lat": 35.907757,
+        "long": 127.766922,
+        "twenty": 51,
+        "fifty": 47,
+        "hundred": 30
+    },
+    {
+        "index": 76,
+        "country": "Kazakhstan",
+        "lat": 48.019573,
+        "long": 66.923684,
+        "twenty": 19,
+        "fifty": 24,
+        "hundred": 28
+    },
+    {
+        "index": 50,
+        "country": "Togo",
+        "lat": 8.619543,
+        "long": 0.824782,
+        "twenty": 8,
+        "fifty": 15,
+        "hundred": 27
+    },
+    {
+        "index": 78,
+        "country": "Tajikistan",
+        "lat": 38.861034,
+        "long": 71.276093,
+        "twenty": 10,
+        "fifty": 16,
+        "hundred": 25
+    },
+    {
+        "index": 87,
+        "country": "Nepal",
+        "lat": 28.394857,
+        "long": 84.124008,
+        "twenty": 29,
+        "fifty": 35,
+        "hundred": 24
+    },
+    {
+        "index": 150,
+        "country": "Ecuador",
+        "lat": -1.831239,
+        "long": -78.183406,
+        "twenty": 18,
+        "fifty": 23,
+        "hundred": 24
+    },
+    {
+        "index": 191,
+        "country": "Ukraine",
+        "lat": 48.379433,
+        "long": 3.116558,
+        "twenty": 44,
+        "fifty": 35,
+        "hundred": 24
+    },
+    {
+        "index": 94,
+        "country": "Dem. People's Republic of Korea",
+        "lat": 40.339852,
+        "long": 127.510093,
+        "twenty": 26,
+        "fifty": 27,
+        "hundred": 23
+    },
+    {
+        "index": 186,
+        "country": "Poland",
+        "lat": 51.919438,
+        "long": 19.145136,
+        "twenty": 38,
+        "fifty": 33,
+        "hundred": 23
+    },
+    {
+        "index": 24,
+        "country": "Congo",
+        "lat": -4.038333,
+        "long": 21.758664,
+        "twenty": 6,
+        "fifty": 11,
+        "hundred": 21
+    },
+    {
+        "index": 99,
+        "country": "Cambodia",
+        "lat": 12.565679,
+        "long": 104.990963,
+        "twenty": 17,
+        "fifty": 22,
+        "hundred": 21
+    },
+    {
+        "index": 163,
+        "country": "Papua New Guinea",
+        "lat": -6.314993,
+        "long": 14.395555,
+        "twenty": 9,
+        "fifty": 14,
+        "hundred": 20
+    },
+    {
+        "index": 64,
+        "country": "Israel",
+        "lat": 31.046051,
+        "long": 34.851612,
+        "twenty": 9,
+        "fifty": 13,
+        "hundred": 18
+    },
+    {
+        "index": 44,
+        "country": "Mauritania",
+        "lat": 2.100789,
+        "long": -10.940835,
+        "twenty": 5,
+        "fifty": 9,
+        "hundred": 17
+    },
+    {
+        "index": 49,
+        "country": "Sierra Leone",
+        "lat": 8.460555,
+        "long": -11.779889,
+        "twenty": 8,
+        "fifty": 13,
+        "hundred": 17
+    },
+    {
+        "index": 146,
+        "country": "Bolivia (Plurinational State of)",
+        "lat": -16.290154,
+        "long": -63.588653,
+        "twenty": 12,
+        "fifty": 16,
+        "hundred": 17
+    },
+    {
+        "index": 148,
+        "country": "Chile",
+        "lat": -35.675147,
+        "long": -71.542969,
+        "twenty": 19,
+        "fifty": 20,
+        "hundred": 17
+    },
+    {
+        "index": 42,
+        "country": "Liberia",
+        "lat": 6.428055,
+        "long": -9.429499,
+        "twenty": 5,
+        "fifty": 9,
+        "hundred": 16
+    },
+    {
+        "index": 93,
+        "country": "China (Taiwan Province of China)",
+        "lat": 2.369781,
+        "long": 120.960515,
+        "twenty": 24,
+        "fifty": 22,
+        "hundred": 16
+    },
+    {
+        "index": 228,
+        "country": "Netherlands",
+        "lat": 52.132633,
+        "long": 5.291266,
+        "twenty": 17,
+        "fifty": 17,
+        "hundred": 16
+    },
+    {
+        "index": 89,
+        "country": "Sri Lanka",
+        "lat": 7.873054,
+        "long": 80.771797,
+        "twenty": 21,
+        "fifty": 22,
+        "hundred": 15
+    },
+    {
+        "index": 123,
+        "country": "Haiti",
+        "lat": 18.971187,
+        "long": -72.285215,
+        "twenty": 11,
+        "fifty": 15,
+        "hundred": 15
+    },
+    {
+        "index": 65,
+        "country": "Jordan",
+        "lat": 30.585164,
+        "long": 36.238414,
+        "twenty": 10,
+        "fifty": 13,
+        "hundred": 14
+    },
+    {
+        "index": 141,
+        "country": "Honduras",
+        "lat": 15.199999,
+        "long": -86.241905,
+        "twenty": 10,
+        "fifty": 14,
+        "hundred": 14
+    },
+    {
+        "index": 56,
+        "country": "Tunisia",
+        "lat": 33.886917,
+        "long": 9.537499,
+        "twenty": 12,
+        "fifty": 14,
+        "hundred": 13
+    },
+    {
+        "index": 74,
+        "country": "United Arab Emirates",
+        "lat": 23.424076,
+        "long": 53.847818,
+        "twenty": 10,
+        "fifty": 10,
+        "hundred": 13
+    },
+    {
+        "index": 203,
+        "country": "Sweden",
+        "lat": 60.128161,
+        "long": 18.643501,
+        "twenty": 10,
+        "fifty": 11,
+        "hundred": 13
+    },
+    {
+        "index": 22,
+        "country": "Central African Republic",
+        "lat": 6.611111,
+        "long": 20.939444,
+        "twenty": 5,
+        "fifty": 8,
+        "hundred": 12
+    },
+    {
+        "index": 188,
+        "country": "Romania",
+        "lat": 45.943161,
+        "long": 2.496676,
+        "twenty": 19,
+        "fifty": 16,
+        "hundred": 12
+    },
+    {
+        "index": 222,
+        "country": "Belgium",
+        "lat": 50.503887,
+        "long": 4.469936,
+        "twenty": 12,
+        "fifty": 12,
+        "hundred": 12
+    },
+    {
+        "index": 77,
+        "country": "Kyrgyzstan",
+        "lat": 4.120438,
+        "long": 74.766098,
+        "twenty": 7,
+        "fifty": 9,
+        "hundred": 11
+    },
+    {
+        "index": 120,
+        "country": "Dominican Republic",
+        "lat": 18.735693,
+        "long": -70.162651,
+        "twenty": 11,
+        "fifty": 13,
+        "hundred": 11
+    },
+    {
+        "index": 229,
+        "country": "Switzerland",
+        "lat": 46.818188,
+        "long": 8.227512,
+        "twenty": 9,
+        "fifty": 10,
+        "hundred": 11
+    },
+    {
+        "index": 184,
+        "country": "Czechia",
+        "lat": 49.817492,
+        "long": 15.472962,
+        "twenty": 11,
+        "fifty": 11,
+        "hundred": 10
+    }
+]
